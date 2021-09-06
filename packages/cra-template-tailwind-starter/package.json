@@ -1,0 +1,30 @@
+{
+	"name": "cra-template-tailwind-starter",
+	"version": "1.0.0",
+	"keywords": [
+		"react",
+		"create-react-app",
+		"template",
+		"tailwind",
+		"tailwindcss",
+		"tailwind-starter",
+		"react-router"
+	],
+	"description": "Custom template for Create React App with Tailwind and React Router.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sleeptil3/cra-template-tailwind-starter-git.git",
+		"directory": "packages/cra-template"
+	},
+	"license": "MIT",
+	"engines": {
+		"node": ">=14"
+	},
+	"bugs": {
+		"url": "https://github.com/facebook/sleeptil3/cra-template-tailwind-starter-git/issues"
+	},
+	"files": [
+		"template",
+		"template.json"
+	]
+}
