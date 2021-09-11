@@ -1,10 +1,18 @@
 # cra-template-tailwind-starter
 
-### A Tailwind Template for create-react-app
+## A Tailwind Template for `create-react-app`
 
-This is built off of the official base template for [Create React App](https://github.com/facebook/create-react-app).
+### Usage
 
-This is, for the most part, a standard create-react-app with Tailwind installed except for the following three things:
+To create a new React project using this template, run the following command in your terminal, replacing [app-name] with your own:
+
+```
+% npx create-react-app [app-name] --template cra-template-tailwind-starter
+```
+
+### Features
+
+This is built off of the official base template for [Create React App](https://github.com/facebook/create-react-app), adding the following features:
 
 - react-router has been installed and is wrapping the App component in index.js
 - A plug-in has been setup in Tailwind to show you what breakpoint you are currently at in the browser to help with styling. You will see it at the top-center of the browser window. When you are ready for production, or to hide it at any time, just comment out the breakpoint div in public/index.html
