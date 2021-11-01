@@ -7,7 +7,7 @@
 To create a new React project using this template, run the following command in your terminal, replacing [app-name] with your own:
 
 ```
-% npx create-react-app [app-name] --template cra-template-tailwind-starter
+% npx create-react-app [app-name] --template tailwind-starter
 ```
 
 ### Features
