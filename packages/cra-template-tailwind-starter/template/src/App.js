@@ -4,7 +4,7 @@ import tailwindLogo from "./tailwindLogo.svg"
 export default function App() {
 	return (
 		<div className="bg-gray-200">
-			<div className="mx-auto relative flex flex-col justify-start pt-32 px-10 items-center h-screen font-normal text-lg text-gray-900 max-w-4xl">
+			<div className="mx-auto relative flex flex-col justify-start pt-32 px-10 items-center font-normal text-lg text-gray-900 max-w-4xl">
 				<img className="relative z-0 -mb-56" width="400" src={tailwindLogo} alt="logo" />
 				<img className="relative animate-spin-slow z-10" width="300" src={reactLogo} alt="logo" />
 				<div className="mt-14 text-center space-y-3">
