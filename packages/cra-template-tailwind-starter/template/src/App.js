@@ -42,7 +42,7 @@ export default function App() {
 								Meta-tags have been set up for the Open Graph protocol in{" "}
 								<code className="font-normal text-yellow-700">public/index.html</code>. This is for
 								setting what shows up when websites generate a preview when you share the link, like
-								a Facebook post or a LinkedIn comment. The tags are currently comment out and
+								a Facebook post or a LinkedIn comment. The tags are currently commented out and
 								awaiting your settings when ready.
 							</p>
 						</li>
