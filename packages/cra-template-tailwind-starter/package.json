@@ -1,7 +1,7 @@
 {
 	"name": "cra-template-tailwind-starter",
 	"main": "template.json",
-	"version": "1.0.31",
+	"version": "1.0.4",
 	"keywords": [
 		"react",
 		"create-react-app",

@@ -1,7 +1,7 @@
 {
 	"package": {
 		"dependencies": {
-			"@craco/craco": "^6.2.0",
+			"@craco/craco": "^6.4.1",
 			"@testing-library/jest-dom": "^5.14.1",
 			"@testing-library/react": "^12.0.0",
 			"@testing-library/user-event": "^13.2.1",
@@ -23,9 +23,9 @@
 			"eject": "react-scripts eject"
 		},
 		"devDependencies": {
-			"autoprefixer": "^9.8.6",
-			"postcss": "^7.0.36",
-			"tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.9"
+			"autoprefixer": "^9.8.8",
+			"postcss": "^7.0.39",
+			"tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
 		}
 	}
 }
